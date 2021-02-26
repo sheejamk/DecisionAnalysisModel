@@ -17,6 +17,7 @@ StripTrailingWhitespace: Yes
 
 BuildType: Package
 PackageUseDevtools: Yes
+PackagePath: P:/Desktop/MKrishnan/repos/packDAMipd
 PackageInstallArgs: --no-multiarch --with-keep.source
 PackageCheckArgs: --as-cran --no-manual
 PackageRoxygenize: rd,collate,namespace,vignette
